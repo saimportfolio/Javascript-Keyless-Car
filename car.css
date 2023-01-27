@@ -1,0 +1,118 @@
+	body{
+	background-color:black ;
+}
+h1{
+	
+	background: rgba(27,164,164,1);
+	border-color: transparent;
+    border-radius: 100px;
+	text-align: center;
+	margin-top: 5.5em;
+	color: white;
+	font-size: 50px;
+	font-family: 'Poppins';
+	animation: fadeInDown;
+	animation-duration: 2s;
+	margin-left: 30px;
+	margin-right: 30px;
+
+}
+h1:hover{ 
+	cursor: pointer;
+	background: var(--clr);
+	box-shadow: 0 0 35px var(--clr);
+  	transition: 0.5s;
+
+
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+
+strong{
+	color: rgb(6, 73, 161);
+}
+
+h2{
+	
+	background: rgba(27,164,164,1);
+	border-color: transparent;
+    border-radius: 100px;
+	text-align: center;
+	color: white;
+	font-family: 'Poppins';
+	animation: fadeInDown;
+	animation-duration: 2s;
+	padding: 3px;
+	margin-left: 21em;
+	margin-right: 21em;
+}
+
+h2:hover{ 
+	cursor: pointer;
+	background: var(--clr);
+	box-shadow: 0 0 35px var(--clr);
+  	transition: 0.5s;
+}
+
+
+h3{
+
+	text-align: center;
+	color: white;
+	font-family: 'Poppins';
+	animation: fadeInDown;
+	animation-duration: 2s;
+	text-align: left;
+	margin-top: 100px;
+
+}
+
+h4{
+	
+	background: rgba(27,164,164,1);
+	border-color: transparent;
+    border-radius: 100px;
+	text-align: center;
+	color: white;
+	font-family: 'Poppins';
+	animation: fadeInDown;
+	animation-duration: 2s;
+	padding: 5px;
+	margin-left: 10em;
+	margin-right: 10em;
+	margin-top: 60px;
+	font-size: 25px;
+}
+h4:hover{
+
+		cursor: pointer;
+	background: var(--clr);
+	box-shadow: 0 0 35px var(--clr);
+  	transition: 0.5s;
+
+}
+
+h5{
+	
+	background: rgba(27,164,164,1);
+	border-color: transparent;
+    border-radius: 100px;
+	text-align: center;
+	color: white;
+	font-family: 'Poppins';
+	animation: fadeInDown;
+	animation-duration: 2s;
+	padding: 3px;
+	margin-left: 27em;
+	margin-right: 27em;
+	font-size: 20px;
+}
+
+h5:hover{ 
+	cursor: pointer;
+	background: var(--clr);
+	box-shadow: 0 0 35px var(--clr);
+  	transition: 0.5s;
+}
